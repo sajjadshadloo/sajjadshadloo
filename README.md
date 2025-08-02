@@ -1,5 +1,14 @@
-Hi there! 👋  
-I'm Sajjad Shadloo — a web developer and WordPress expert based in Iran.  
-My main focus is on custom plugin development, website optimization, and providing tailored solutions for businesses.  
-I enjoy working on challenging projects, learning new technologies, and sharing open-source tools for the WordPress community.  
-Feel free to check out my repositories, use my projects, or reach out for collaboration!
+Hi, I'm Sajjad Shadloo 👋
+
+I'm a passionate WordPress developer, plugin author, and web designer based in Iran, specializing in custom solutions for e-commerce and business websites.
+
+My expertise includes:
+- Advanced WordPress plugin development
+- WooCommerce customization and optimization
+- UI/UX design for fast, user-friendly websites
+- Technical SEO and digital marketing strategies
+
+I'm dedicated to building efficient, scalable, and secure web products.  
+Here you’ll find a collection of my open-source projects, experiments, and tools for the WordPress community.
+
+Feel free to check out my work, contribute, or connect for collaboration and freelance opportunities.
